@@ -240,5 +240,8 @@ function showHelp() {
 Good luck, detective! 🕵️‍♂️`);
 }
 
+
 // Start the game
 window.addEventListener('load', initGame);
+
+//Adding Sound...
